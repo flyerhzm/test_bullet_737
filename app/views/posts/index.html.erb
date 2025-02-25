@@ -9,6 +9,7 @@
     <%= render post %>
     <p>
       <%= link_to "Show this post", post %>
+      <%= button_to "Destroy this post", post, method: :delete %>
     </p>
   <% end %>
 </div>
