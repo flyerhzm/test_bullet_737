@@ -62,5 +62,5 @@ group :test do
   gem "selenium-webdriver"
 end
 
-gem 'bullet', '8.0.0'
+gem 'bullet', '8.0.6'
 gem 'paper_trail'
